@@ -1,0 +1,13 @@
+{
+    "name": "vendor/app-tempo",
+    "description": "Description of project AppTempo.",
+    "authors": [
+        {
+            "name": "Aluno",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "* dev-master"
+    }
+}
